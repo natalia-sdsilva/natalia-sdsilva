@@ -5,4 +5,4 @@ Meu nome é Natalia
 - Estou estudando na Alura
 - Utilizo esse espaço para compartilhar meus projetos
 
-![](https://tenor.com/pt-BR/view/lana-del-rey-flying-kiss-wave-blow-kiss-gif-5030633)
+![image](https://github.com/natalia-sdsilva/natalia-sdsilva/assets/141870314/20eb78c6-5bd7-480e-b4d2-10ff6a32436d)
